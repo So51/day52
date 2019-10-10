@@ -1,0 +1,8 @@
+var activities = [
+ ['Working', 7],
+ ['Eating', 6],
+ ['Walking', 4],
+ ['Playing Game', 8],
+ ['Sleeping', 9]
+  ];
+alert (activities [1]);
